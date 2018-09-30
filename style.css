@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color:blue;
+}
+
+.button {
+    border-style: solid;
+    border-color: black;
+    border-radius: 20%;
+
+}
+
+.add-button {
+    float: right;
+    background-color: white;
+    color: black;
+    border-style: solid;
+    border-color: gray;
+    margin-right: 51px; 
+}
